@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A wonderful Hair Cutting Gem.}
   spec.description   = %q{A wonderful Hair Cutting Gem for the whole family.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/schesnowitz/hair_cutter"
   spec.license       = "MIT"
 
 
