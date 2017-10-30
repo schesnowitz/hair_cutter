@@ -13,6 +13,8 @@ module HairCutter
       puts "We are just blow drying..."
       sleep 3
       puts "Okay, we are all done!"
+      sleep 2.8
+      puts "I look forward to cutting your hair again soon.  Remember to check out our great gem 'Dog Walker'."
     end
   end
 end
